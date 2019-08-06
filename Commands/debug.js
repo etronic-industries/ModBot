@@ -14,8 +14,10 @@ module.exports = async(bot, msg, args) => {
     msg.channel.send(`Please Wait...`).then(function(m) {
         m.edit(`**Ping Time:** ${m.createdTimestamp - msg.createdTimestamp}ms
         **Commands Loaded:** 15/15 (None Missing)
-        **OS:** Windows Server 2008 R2
-        **RAM:** 4GB
+        **CPU:** AMD Threadripper 2950X @ 4.1GHz
+        **OS:** Windows Server 2016 RS4
+        **RAM:** 64GB
+        **Storage:** 25TB Hard Drive storage
         **Web Dashboard:** Offline
         `)
     })
