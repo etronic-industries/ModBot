@@ -18,7 +18,7 @@
   //      .setColor(0xff0000)
 
   //  msg.channel.send(embed).then(function(m) {
-  //      require('child_process').exec("pm2 restart TTGProtect", function() {
+  //      require('child_process').exec("pm2 restart UserBot", function() {
    //         bot.destroy();
    //         process.exit();
   //      });
