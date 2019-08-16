@@ -23,7 +23,7 @@
    //         process.exit();
   //      });
   //      const embed2 = new Discord.RichEmbed()
-  //          .setTitle('Done!')
+  //          .setTitle('Done')
    //         .setDescription(`I'm back!`)
  //           .setColor(0x00ff00)
             
