@@ -2,7 +2,7 @@
 //  ping.js
 //  UserBot
 //
-//  Created by TotallyNotNero on 12/22/18.
+//  Created by TotallyNotNero on 12/22/18
 //  Copyright © 2018 - 2019 TotallyNotNero. All rights reserved.
 //
 
