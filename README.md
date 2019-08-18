@@ -1,5 +1,5 @@
-# UserBot
-UserBot, the discord bot for YouTubers
+# ModBot
+ModBot, the discord bot for YouTubers
 
 ## Hosting
 1. Download.
