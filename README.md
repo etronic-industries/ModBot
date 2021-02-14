@@ -5,7 +5,7 @@ ModBot, the discord bot for YouTubers
 1. Download.
 2. insert your bot token in `./Configuration/config.json`
 3. Run `npm install` to install dependancies
-4. Navigste to the folder and run `node bot.js` to start the bot.
+4. Navigate to the folder and run `node bot.js` to start the bot.
 
 
 # License
